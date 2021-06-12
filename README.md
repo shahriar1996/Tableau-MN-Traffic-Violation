@@ -19,3 +19,6 @@ This is a data set of various citations across Minnesota given out in two years 
 * “Address”, “Neighborhoods Description”, and “Wards” give the information about where the citation was given. 
 * “Latitude” and “Longitude” provide the exact location where the violation occurred. These two columns could help to geographically visualize the location where the most and the least people tend to break the law. 
 
+----
+
+## Looking ahead to the next few years, what should the department expect and what recommendations would you make to leadership?![image](https://user-images.githubusercontent.com/44209951/121782997-0ffed000-cb72-11eb-8bcd-f639dc7a4b19.png)
