@@ -21,4 +21,8 @@ This is a data set of various citations across Minnesota given out in two years 
 
 ----
 
-## Looking ahead to the next few years, what should the department expect and what recommendations would you make to leadership?![image](https://user-images.githubusercontent.com/44209951/121782997-0ffed000-cb72-11eb-8bcd-f639dc7a4b19.png)
+## Looking ahead to the next few years, what should the department expect and what recommendations would you make to leadership?
+
+It would be more beneficial if the dataset had more information about more than 5 years. That would be helpful to figure out if there is any pattern in receiving the citations. For example, if each quarter share a significant characteristics in terms of receiving citation. This could be because of weather condition, vacation time, or lack of parking in certain areas.
+The department can expect that out of all the citations, the five most common types would most likely be for parked overtime, snow emergency even, snow emergency odd, vehicle abandoned, obstructing traffic. Also, they can expect the most citations to be issued in the neighborhood of Downtown West, North Loop, Mercy Holmes, Loring Park, Whittier. Moreover, they can also expect people are more likely to violate the law during the office going and coming time.
+My first recommendation for the leadership would be to have less police patrolling during the nighttime between the hours of 12-6 AM and more during the office going and coming time. As a recommendation to decrease the number of citations given in the neighborhoods that currently have the most, they should figure out which type of citations are being given and how to facilitate the solution. For example, most of the citations given in Downtown West are due to parking overtime. As a solution, the leader can implement a better system to help people track their parking status and increase the parking facilities.
