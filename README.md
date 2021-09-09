@@ -1,9 +1,9 @@
 # Project
 **MN-Traffic-Violation-Visualization**
 
-[Dashboard 1]()
+[Dashboard 1](https://public.tableau.com/app/profile/arif.shahriar/viz/MNTrafficViolationVisualization-1/Dashboard1?publish=yes)
 
-[Dashboard 2]()
+[Dashboard 2](https://public.tableau.com/app/profile/arif.shahriar/viz/MNTrafficViolationVisualization-2/Dashboard2?publish=yes)
 
 ## Datasets
 The datasets for this project can be downloaded from [the repository](link goes here).
