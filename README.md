@@ -1,5 +1,8 @@
 # Project
 **MN-Traffic-Violation-Visualization**
+[Dashboard 1]()
+[Dashboard 2]()
+
 ## Datasets
 The datasets for this project can be downloaded from [the repository](link goes here).
 
