@@ -6,7 +6,7 @@
 [Dashboard 2](https://public.tableau.com/app/profile/arif.shahriar/viz/MNTrafficViolationVisualization-2/Dashboard2?publish=yes)
 
 ## Datasets
-The datasets for this project can be downloaded from [the repository](link goes here).
+The datasets for this project can be downloaded from [the repository](https://github.com/shahriar1996/Tableau-MN-Traffic-Violation/blob/main/MN-Traffic-Violation.xlsx).
 
 ## Tool used
 Tableau
